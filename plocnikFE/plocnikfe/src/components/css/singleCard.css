@@ -1,0 +1,14 @@
+a.link-text{
+    color: #26a69a;
+}
+.icon{
+    padding: 5px;
+}
+.row-review{
+    padding-top: 2px;
+    color: white;
+    display: flex;
+}
+.container{
+    display: grid;
+}
